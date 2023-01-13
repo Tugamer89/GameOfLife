@@ -21,10 +21,11 @@ Once the project is built and the executable is generated, you can run the game 
 ## Built With
 
 - [Visual Studio](https://visualstudio.microsoft.com/) - The IDE used for development
+- [C++](http://www.cplusplus.com/) - The programming language used
 
 ## Author
 
-- **Tugamer89** - _Initial work_ - [Tuga](https://github.com/Tugamer89)
+- **Tugamer89** - _Initial work_ - [Tugamer89](https://github.com/Tugamer89)
 
 ## Acknowledgments
 
