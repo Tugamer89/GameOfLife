@@ -137,7 +137,7 @@ void GameOfLife::start() {
 		gen++;
 		printGrid();
 		liveCells = countLiveCells();
-		system(("title Tuga's Game of Life - Gen: " + to_string(gen) + " - Live cells: " + to_string(liveCells) + "/" + to_string(totalCells)).c_str());
+		system(("title Tugamer89's Game of Life - Gen: " + to_string(gen) + " - Live cells: " + to_string(liveCells) + "/" + to_string(totalCells)).c_str());
 		Sleep(SLEEP_MS);
 	}
 
